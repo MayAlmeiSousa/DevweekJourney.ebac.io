@@ -1,2 +1,2 @@
 # DevweekJourney.ebac.io
-Exercícios referentes a DevWeek da EBAC. 
+Exercício referentes a DevWeek da EBAC. 
