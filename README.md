@@ -13,7 +13,7 @@ Elaborar um currículo usando as seguintes tecnologias.
 1 Semana e 5 dias.
 
 ## Status:
-Conclúido 
+Concluído :heavy_check_mark:
 
 
 
