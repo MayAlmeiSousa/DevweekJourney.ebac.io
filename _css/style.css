@@ -67,7 +67,6 @@ body {
     padding-bottom: 1rem;
 }
 
-
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
     color: #4B6982;;
@@ -105,7 +104,6 @@ body {
     padding-left:2px;
 }
 
-
 .skills ul {
     padding-top: 1.5rem;
 }
@@ -135,7 +133,6 @@ body {
     /* text-transform: uppercase; */
     padding-bottom: .4rem;
 }
-
 
 .right-section-contents {
     padding: 2rem 2rem;
@@ -211,7 +208,6 @@ body {
     border-left: 3px solid #a5a3a3;
     padding-left: 5px;
 }
-
 
 /* Media queries */
 @media screen and (max-width:780px) {
